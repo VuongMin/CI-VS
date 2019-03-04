@@ -12,7 +12,7 @@ namespace UTest
 		
 		TEST_METHOD(Trystring)
 		{
-			// TODO: Your test code here    
+		  
 			string Str = "This is ";
 			Clas x;
 			Assert::AreEqual(Str, x.CompareString());
